@@ -3,12 +3,91 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Yilun Yang",
+        "place": "Hemingway’s Home",
+        "month": "December"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.80060505867004,
           24.55121220227746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Yilun Yang",
+        "place": "Japan Town",
+        "month": "April"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4297845363617,
+          37.785240927748866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Yilun Yang",
+        "place": "International Spy Museum ",
+        "month": "May"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02550590038298,
+          38.8839239395563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Yilun Yang",
+        "place ": "The Parthenon",
+        "month": "October"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81338548660277,
+          36.149735673417936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "traveler": "Yilun Yang",
+        "place": "Chihuly Garden and Glass",
+        "month": "July"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3502007126808,
+          47.6205487502659
         ]
       }
     }
