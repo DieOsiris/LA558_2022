@@ -19,67 +19,67 @@
 
     <style>
       .highcharts-figure,
-.highcharts-data-table table {
-    min-width: 360px;
-    max-width: 800px;
-    margin: 1em auto;
-}
+      .highcharts-data-table table {
+        min-width: 360px;
+        max-width: 800px;
+        margin: 1em auto;
+      }
 
-.highcharts-data-table table {
-    font-family: Verdana, sans-serif;
-    border-collapse: collapse;
-    border: 1px solid #ebebeb;
-    margin: 10px auto;
-    text-align: center;
-    width: 100%;
-    max-width: 500px;
-}
+      .highcharts-data-table table {
+        font-family: Verdana, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid #ebebeb;
+        margin: 10px auto;
+        text-align: center;
+        width: 100%;
+        max-width: 500px;
+      }
 
-.highcharts-data-table caption {
-    padding: 1em 0;
-    font-size: 1.2em;
-    color: #555;
-}
+      .highcharts-data-table caption {
+        padding: 1em 0;
+        font-size: 1.2em;
+        color: #555;
+      }
 
-.highcharts-data-table th {
-    font-weight: 600;
-    padding: 0.5em;
-}
+      .highcharts-data-table th {
+        font-weight: 600;
+        padding: 0.5em;
+      }
 
-.highcharts-data-table td,
-.highcharts-data-table th,
-.highcharts-data-table caption {
-    padding: 0.5em;
-}
+      .highcharts-data-table td,
+      .highcharts-data-table th,
+      .highcharts-data-table caption {
+        padding: 0.5em;
+      }
 
-.highcharts-data-table thead tr,
-.highcharts-data-table tr:nth-child(even) {
-    background: #f8f8f8;
-}
+      .highcharts-data-table thead tr,
+      .highcharts-data-table tr:nth-child(even) {
+        background: #f8f8f8;
+      }
 
-.highcharts-data-table tr:hover {
-    background: #f1f7ff;
-}
+      .highcharts-data-table tr:hover {
+        background: #f1f7ff;
+      }
 
     </style>
 
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/series-label.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
-<script src="https://code.highcharts.com/modules/export-data.js"></script>
-<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
 
   </head>
 
   <body>
     <figure class="highcharts-figure">
-    <div id="container"></div>
-    <p class="highcharts-description">
+      <div id="container"></div>
+      <p class="highcharts-description">
         Basic line chart showing trends in a dataset. This chart includes the
         <code>series-label</code> module, which adds a label to each line for
         enhanced readability.
-    </p>
-</figure>
+      </p>
+    </figure>
 
 
     <!-- your JavScript content here as a link or within this document -->
@@ -87,68 +87,69 @@
     <script>
       Highcharts.chart('container', {
 
-    title: {
-        text: 'LA588 Exercise 4b, 2010-2017'
-    },
-
-    subtitle: {
-        text: 'Source: thesolarfoundation.com'
-    },
-
-    yAxis: {
         title: {
+          text: 'LA588 Exercise 4b, 2010-2017'
+        },
+
+        subtitle: {
+          text: 'Source: thesolarfoundation.com'
+        },
+
+        yAxis: {
+          title: {
             text: '# of Employees'
-        }
-    },
+          }
+        },
 
-    xAxis: {
-        accessibility: {
+        xAxis: {
+          accessibility: {
             rangeDescription: 'Range: 2010 to 2017'
-        }
-    },
+          }
+        },
 
-    legend: {
-        layout: 'vertical',
-        align: 'right',
-        verticalAlign: 'middle'
-    },
+        legend: {
+          layout: 'vertical',
+          align: 'right',
+          verticalAlign: 'middle'
+        },
 
-    plotOptions: {
-        series: {
+        plotOptions: {
+          series: {
             label: {
-                connectorAllowed: false
+              connectorAllowed: false
             },
             pointStart: 2010
-        }
-    },
+          }
+        },
 
-    series: [{
-        name: 'Pepsi',
-        data: [4334, 5203, 5717, 6658, 7031, 6931, 7133, 5175]
-    }, {
-        name: 'Coke',
-        data: [4916, 4064, 2742, 2851, 3490, 3282, 3121, 4434]
-    }],
+        series: [{
+          name: 'Pepsi',
+          data: [4334, 5203, 5717, 6658, 7031, 6931, 7133, 5175]
+        }, {
+          name: 'Coke',
+          data: [4916, 4064, 2742, 2851, 3490, 3282, 3121, 4434]
+        }],
 
-    responsive: {
-        rules: [{
+        responsive: {
+          rules: [{
             condition: {
-                maxWidth: 500
+              maxWidth: 500
             },
             chartOptions: {
-                legend: {
-                    layout: 'horizontal',
-                    align: 'center',
-                    verticalAlign: 'bottom'
-                }
+              legend: {
+                layout: 'horizontal',
+                align: 'center',
+                verticalAlign: 'bottom'
+              }
             }
-        }]
-    }
+          }]
+        }
 
-});
+      });
 
     </script>
 
   </body>
 
 </html>
+
