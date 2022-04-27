@@ -9,4 +9,11 @@ I love Genshin Impact!
 [Exercise 3a](https://yiluny217.github.io/LA558_2022/web/ex3a.html)  
 [Exercise 4b - highcharts](https://yiluny217.github.io/LA558_2022/web/ex4b_highchart.html)  
 [Exercise 4b - leaflet](https://yiluny217.github.io/LA558_2022/web/ex4b_leaflet.html)  
-[Exercise 5b - leaflet](https://yiluny217.github.io/LA558_2022/web/ex5b.html)  
+[Exercise 5b](https://yiluny217.github.io/LA558_2022/web/ex5b.html)  
+
+#### Assignments:  
+[Assignment 1]https://yiluny217.github.io/LA558_2022/web/assignment1.html)  
+[Assignment 2a]https://yiluny217.github.io/LA558_2022/web/assignment2a.html)  
+[Assignment 2b]https://yiluny217.github.io/LA558_2022/web/assignment2b.html)  
+[Assignment 3]https://yiluny217.github.io/LA558_2022/web/assignment3.html)  
+[Assignment 4]https://yiluny217.github.io/LA558_2022/web/assignment4.html)  
