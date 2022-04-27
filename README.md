@@ -2,8 +2,6 @@
 LA 558 Web mapping course 2022  
 Yilun's Site  
 
-![image](https://github.com/yiluny217/LA558_2022/blob/main/web/1.gif)
-
 
 #### Exercises:  
 [Exercise 2a](https://yiluny217.github.io/LA558_2022/web/ex2a.html)  
