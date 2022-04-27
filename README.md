@@ -3,7 +3,7 @@ LA 558 Web mapping course 2022
 Yilun's Site  
 I love Genshin Impact!
 
-![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bilibili.com%2Fread%2Fcv13015832&psig=AOvVaw1Ps_4LMMnJMkDngb5piNOA&ust=1651106531079000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCZvKSBs_cCFQAAAAAdAAAAABAD)
+![image](https://i0.hdslb.com/bfs/article/958822aa3126e450dfe5f4542c09a9b048cbd3f9.gif)
 
 
 #### Exercises:  
