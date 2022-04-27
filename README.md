@@ -5,6 +5,8 @@ Yilun's Site
 ![image](https://i0.hdslb.com/bfs/article/958822aa3126e450dfe5f4542c09a9b048cbd3f9.gif)  
 <sub> gif source: @acomu414 </sub>
 
+<img src="https://i0.hdslb.com/bfs/article/958822aa3126e450dfe5f4542c09a9b048cbd3f9.gif">
+
 #### Exercises:  
 [Exercise 2a](https://yiluny217.github.io/LA558_2022/web/ex2a.html)  
 [Exercise 2b](https://yiluny217.github.io/LA558_2022/web/ex2b.html)  
