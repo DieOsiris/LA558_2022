@@ -27,7 +27,7 @@ Yilun's Site
   
   
   
-<sub> source: @acomu414 </sub>
+<sub> gif source: @acomu414 </sub>
 
 
 
