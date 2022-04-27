@@ -23,9 +23,6 @@ Yilun's Site
   
   
   
-  
-  
-<sub> gif source: @acomu414 </sub>
 
 
 
