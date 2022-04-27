@@ -12,8 +12,8 @@ I love Genshin Impact!
 [Exercise 5b](https://yiluny217.github.io/LA558_2022/web/ex5b.html)  
 
 #### Assignments:  
-[Assignment 1]https://yiluny217.github.io/LA558_2022/web/assignment1.html)  
-[Assignment 2a]https://yiluny217.github.io/LA558_2022/web/assignment2a.html)  
-[Assignment 2b]https://yiluny217.github.io/LA558_2022/web/assignment2b.html)  
-[Assignment 3]https://yiluny217.github.io/LA558_2022/web/assignment3.html)  
-[Assignment 4]https://yiluny217.github.io/LA558_2022/web/assignment4.html)  
+[Assignment 1](https://yiluny217.github.io/LA558_2022/web/assignment1.html)  
+[Assignment 2a](https://yiluny217.github.io/LA558_2022/web/assignment2a.html)  
+[Assignment 2b](https://yiluny217.github.io/LA558_2022/web/assignment2b.html)  
+[Assignment 3](https://yiluny217.github.io/LA558_2022/web/assignment3.html)  
+[Assignment 4](https://yiluny217.github.io/LA558_2022/web/assignment4.html)  
